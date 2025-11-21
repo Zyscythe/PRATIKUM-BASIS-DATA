@@ -1,0 +1,9 @@
+Pemrograman Python untuk Pemula
+Pendahuluan
+
+Repository ini dibuat sebagai modul praktikum dan sumber belajar bagi pemula yang ingin mempelajari bahasa pemrograman Python.
+Python dipilih karena sintaksnya yang sederhana dan mudah dipahami, sehingga sangat cocok untuk orang yang baru mengenal dunia pemrograman.
+Dalam repo ini, selain mempelajari syntax dasar Python, 
+pengguna juga akan diajak mengenal konsep dasar algoritma dan logika pemrograman yang penting untuk membangun kemampuan problem solving dalam pemrograman.
+Materi yang ada disusun secara bertahap mulai dari pengenalan Python, tipe data, variabel, operator, pengkondisian, perulangan, hingga konsep lebih lanjut seperti fungsi dan pemrograman berorientasi objek.
+Dengan mengikuti materi di repo ini, diharapkan pengguna mampu menguasai dasar-dasar pemrograman Python dan mampu mengimplementasikan berbagai program sederhana secara mandiri.
